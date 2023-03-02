@@ -51,3 +51,5 @@ console.log("Hand: ", hand);
 console.log("Sorted Hand: ", sortHand(hand));
 console.log("Is of the same suit? ", isSameSuit(hand));
 console.log("Is in sequence? ", isSameSuit(hand));
+
+console.log("Laurens Test");
